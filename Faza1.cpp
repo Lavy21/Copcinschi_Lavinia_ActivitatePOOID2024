@@ -8,3 +8,7 @@ class Camion {
 class Container {
 	int id Container;
 };
+
+class Lada {
+	int idLada;
+};
