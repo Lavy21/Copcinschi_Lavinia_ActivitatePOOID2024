@@ -4,3 +4,7 @@ using namespace std;
 class Camion {
 	int idCamion;
 };
+
+class Container {
+	int id Container;
+};
